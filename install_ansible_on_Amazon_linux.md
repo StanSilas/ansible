@@ -9,6 +9,7 @@ Ansible is an open-source automation platform. It is very, very simple to set up
 ### Installation steps:
 #### on Amazon EC2 instance
 
+## This step #1 might not be required as python is usually installed by default. However pip might need to be installed.
 1. Install python and python-pip
    ```sh
    yum install python
